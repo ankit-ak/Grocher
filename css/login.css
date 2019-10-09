@@ -29,7 +29,7 @@ img{max-width:100%;}
 /*end reset*/
 /****-----start-body----****/
 body{
-	background-color:#86B4CC;
+	background-color:#82AE46;
 }
 .main{
 	margin:7em auto 0;
@@ -107,7 +107,7 @@ input[type="text"]:hover,input[type="Password"]:hover,#active{
 	margin-right: 11px;
 }
 .submit input[type="submit"] {
-	background: #F06B37;
+	background: #82AE46;
 	border: none;
 	outline: none;
 	padding: 0.55em 1.3em 0.6em;
